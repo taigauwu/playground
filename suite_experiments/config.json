@@ -1,0 +1,9 @@
+{
+    "lastools_path": "",
+    "classify_lidar_bat_path": "",
+    "downloader_dest_path": "",
+    "theme_name": "solar",
+    "pdal_path": "",
+    "pdal_wrench_path": "",
+    "rtklib_path": ""
+}
